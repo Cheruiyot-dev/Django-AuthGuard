@@ -21,7 +21,8 @@ A robust authentication and authorization system for Django REST Framework, feat
 ## Setup
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Cheruiyot-dev/Django-AuthGuard.git
+   
    cd Django-AuthGuard
    ```
 2. Install dependencies:
