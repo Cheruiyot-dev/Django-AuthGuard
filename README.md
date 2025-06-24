@@ -88,4 +88,4 @@ A robust authentication and authorization system for Django REST Framework, feat
 
 
 
-**Note:** Replace `<your-repo-url>` with your actual repository URL. Update email settings in Django settings for production use.
+
