@@ -31,7 +31,7 @@ A robust authentication and authorization system for Django REST Framework, feat
    ```
 3. Apply migrations:
    ```sh
-    python manage.py makemigrations
+   python manage.py makemigrations
    python manage.py migrate
    ```
 4. Create a superuser (for admin access):
